@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.icons {
+  border-radius: 50%;
+  background: 'blue';
+}
